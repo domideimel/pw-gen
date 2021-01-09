@@ -1,0 +1,21 @@
+{
+  "name": "PWGen",
+  "short_name": "PWGen",
+  "theme_color": "#23235b",
+  "background_color": "#23235b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/assets/pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },{
+      "src": "/assets/pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
