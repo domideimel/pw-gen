@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "preact": "^10.5.12",
-    "preact-render-to-string": "^5.1.15"
+    "preact-render-to-string": "^5.1.16"
   },
   "browserslist": [
     "last 1 chrome version",
