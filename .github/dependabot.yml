@@ -1,0 +1,17 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: preact-render-to-string
+    versions:
+    - 5.1.13
+    - 5.1.17
+    - 5.1.18
+  - dependency-name: eslint
+    versions:
+    - 7.23.0
