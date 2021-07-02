@@ -22,7 +22,7 @@
     "sirv-cli": "^1.0.11"
   },
   "dependencies": {
-    "preact": "^10.5.13",
+    "preact": "^10.5.14",
     "preact-render-to-string": "^5.1.19"
   },
   "browserslist": [
